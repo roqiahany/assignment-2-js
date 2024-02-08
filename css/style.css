@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+p {
+  font-size: 35px;
+
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+div {
+  text-align: center;
+}
+
+button:hover {
+  background-color: green;
+}
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
